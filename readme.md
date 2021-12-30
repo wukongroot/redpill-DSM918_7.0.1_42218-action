@@ -1,5 +1,3 @@
-[来自于Izumiko/redpill-loader-action](https://github.com/Izumiko/redpill-loader-action)
-
 
 # Building RedPill loader with Github action
 
